@@ -1,0 +1,1 @@
+MusicMate: Tu compañero musical que facilita la visualización y edición de letras y acordes, incluyendo la transposición a diferentes tonalidades.
